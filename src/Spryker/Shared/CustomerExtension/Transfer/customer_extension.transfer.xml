@@ -7,4 +7,13 @@
     <transfer name="Customer">
     </transfer>
 
+    <transfer name="OauthCustomerRestrictionRequest" strict="true">
+    </transfer>
+
+    <transfer name="OauthCustomerRestrictionResponse" strict="true">
+    </transfer>
+
+    <transfer name="ResourceOwner">
+    </transfer>
+
 </transfers>

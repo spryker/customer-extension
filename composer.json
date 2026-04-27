@@ -4,7 +4,8 @@
     "description": "CustomerExtension module",
     "license": "proprietary",
     "require": {
-        "php": ">=8.3"
+        "php": ">=8.3",
+        "spryker/transfer": "^3.27.0"
     },
     "require-dev": {
         "spryker/code-sniffer": "*"
