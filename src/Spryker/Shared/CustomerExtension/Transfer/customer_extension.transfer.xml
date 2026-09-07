@@ -16,4 +16,10 @@
     <transfer name="ResourceOwner">
     </transfer>
 
+    <transfer name="AddressResponse" strict="true">
+    </transfer>
+
+    <transfer name="Address">
+    </transfer>
+
 </transfers>
